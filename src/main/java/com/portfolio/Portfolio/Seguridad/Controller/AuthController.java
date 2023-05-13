@@ -1,4 +1,6 @@
 package com.portfolio.Portfolio.Seguridad.Controller;
+
+
 import com.portfolio.Portfolio.Seguridad.Dto.JwtDto;
 import com.portfolio.Portfolio.Seguridad.Dto.LoginUsuario;
 import com.portfolio.Portfolio.Seguridad.Dto.NuevoUsuario;
@@ -70,7 +72,7 @@ public class AuthController {
     @PostMapping("/login")
     public ResponseEntity<JwtDto> login(@Valid @RequestBody LoginUsuario loginUsuario, BindingResult bindingResult){
         if(bindingResult.hasErrors())
-            return new ResponseEntity(new Mensaje("Campos mal puestos"),HttpStatus.BAD_REQUEST);
+            return new ResponseEntity(new Mensaje("Campos mal puestos"), HttpStatus.BAD_REQUEST);
         
         Authentication authentication = authenticationManager.authenticate(new UsernamePasswordAuthenticationToken(
         loginUsuario.getNombreUsuario(), loginUsuario.getPassword()));
