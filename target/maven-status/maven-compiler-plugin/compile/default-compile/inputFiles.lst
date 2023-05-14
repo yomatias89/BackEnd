@@ -5,6 +5,7 @@ C:\BackEnd\src\main\java\com\portfolio\Portfolio\Seguridad\Service\UserDetailsIM
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Seguridad\Service\UsuarioService.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Seguridad\Repository\IUsuarioRepository.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Servicio\Seducacion.java
+C:\BackEnd\src\main\java\com\portfolio\Portfolio\Controles\CHys.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\WebConfig.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\PortfolioApplication.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Seguridad\jwt\JwtTokenFilter.java
@@ -15,6 +16,7 @@ C:\BackEnd\src\main\java\com\portfolio\Portfolio\Servicio\SExperiencia.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Seguridad\Entity\Usuario.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Dto\dtoExperiencia.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Seguridad\Dto\JwtDto.java
+C:\BackEnd\src\main\java\com\portfolio\Portfolio\Servicio\Shys.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Seguridad\Repository\IRolRepository.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Controles\PersonaControlador.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Controles\CExperiencia.java
@@ -32,6 +34,7 @@ C:\BackEnd\src\main\java\com\portfolio\Portfolio\Repositorio\RExperiencia.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Entidad\Experiencia.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Seguridad\Dto\LoginUsuario.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Repositorio\IPersonaRepositorio.java
+C:\BackEnd\src\main\java\com\portfolio\Portfolio\Dto\dtoHys.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Seguridad\Service\RolService.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Repositorio\REducacion.java
 C:\BackEnd\src\main\java\com\portfolio\Portfolio\Seguridad\Enums\RolNombre.java

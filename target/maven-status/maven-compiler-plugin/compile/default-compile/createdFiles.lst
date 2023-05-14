@@ -1,5 +1,6 @@
 com\portfolio\Portfolio\Seguridad\Service\RolService.class
 com\portfolio\Portfolio\Repositorio\RExperiencia.class
+com\portfolio\Portfolio\Dto\dtoHys.class
 com\portfolio\Portfolio\Seguridad\Dto\NuevoUsuario.class
 com\portfolio\Portfolio\Seguridad\Entity\Usuario.class
 com\portfolio\Portfolio\Seguridad\Service\UserDetailsIMP.class
@@ -8,9 +9,11 @@ com\portfolio\Portfolio\Seguridad\Enums\RolNombre.class
 com\portfolio\Portfolio\Seguridad\jwt\JwtTokenFilter.class
 com\portfolio\Portfolio\Seguridad\jwt\JwtEntryPoint.class
 com\portfolio\Portfolio\Seguridad\Dto\LoginUsuario.class
+com\portfolio\Portfolio\Servicio\Shys.class
 com\portfolio\Portfolio\Seguridad\Controller\Mensaje.class
 com\portfolio\Portfolio\Controles\CExperiencia.class
 com\portfolio\Portfolio\Dto\dtoExperiencia.class
+com\portfolio\Portfolio\Controles\CHys.class
 com\portfolio\Portfolio\WebConfig.class
 com\portfolio\Portfolio\Dto\dtoEducacion.class
 com\portfolio\Portfolio\Servicio\SExperiencia.class
